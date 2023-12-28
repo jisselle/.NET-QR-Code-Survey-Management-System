@@ -1,9 +1,8 @@
-# .NET-QR-Code-Survey-Management-System
-Survey management system, web application
+# .NET-Survey-Management-System
 
 **Overview**
 
-The Survey QR Code Generator Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing users to easily share survey links, a user-friendly dashboard for employees, and public-facing survey pages for participants.
+The Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing users to easily share survey links, a user-friendly dashboard for employees, and public-facing survey pages for participants.
 
 **Features**
 QR Code Generator:
@@ -41,7 +40,7 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 
 **Technologies Used**
 C#: The primary programming language used for backend development.
-ASP.NET Core: Framework for building web applications.
+.NET 6: Framework for building web applications.
 Entity Framework Core: Object-Relational Mapping (ORM) for database interactions.
 Microsoft SQL Server Management Studio - Database Management.
 HTML, CSS, JavaScript: Frontend technologies for creating interactive user interfaces.
