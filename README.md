@@ -46,3 +46,6 @@ Entity Framework Core: Object-Relational Mapping (ORM) for database interactions
 Microsoft SQL Server Management Studio - Database Management.
 HTML, CSS, JavaScript: Frontend technologies for creating interactive user interfaces.
 Bootstrap: Frontend framework for responsive UI.
+
+# Screengrabs
+![Confirmation_Survey_Page](./img/Confirmation.png)
