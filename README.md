@@ -48,4 +48,4 @@ HTML, CSS, JavaScript: Frontend technologies for creating interactive user inter
 Bootstrap: Frontend framework for responsive UI.
 
 # Screengrabs
-![Confirmation_Survey_Page](./img/Confirmation_Page.png)
+![Confirmation_Survey_Page](./img/ConfirmationPage.png)
