@@ -48,3 +48,6 @@ Bootstrap: Frontend framework for responsive UI.
 
 # Screengrabs
 ![Confirmation_Survey_Page](./img/ConfirmationPage.png)
+![Screensot_CreatePage](./img/reate.png)
+![Screensot_editPage](./img/edit.png)
+![Screensot_DetailsPage](./img/Details.png)
