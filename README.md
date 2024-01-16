@@ -48,6 +48,4 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 
 # Screengrabs
 ![Confirmation_Survey_Page](./img/ConfirmationPage.png)
-![Screensot_CreatePage](./img/reate.png)
-![Screensot_editPage](./img/edit.png)
-![Screensot_DetailsPage](./img/Details.png)
+
