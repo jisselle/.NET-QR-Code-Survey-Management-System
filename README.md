@@ -19,6 +19,12 @@ The application will route the QR code to the destination URL set by administrat
 Secure login for employees.
 Dashboard displaying survey responses, analytics, and management tools.
 
+**More UI Technical Features**
+- **Responsive forms using JavaScript**:
+- - **Storing and showing images within database and databales & CRUD Pages**:
+- **Routing manipulation**
+- **URL Creation**
+
 **Usage**
 
 - **QR Code Generation**:
