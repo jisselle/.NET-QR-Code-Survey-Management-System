@@ -1,19 +1,20 @@
 # .NET-Survey-Management-System
 
 **Overview**
-
-The Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing users to easily share survey links, a user-friendly dashboard for employees, and public-facing survey pages for participants.
+The Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing administrators and supervisors to easily share survey links, a user-friendly dashboard for employees, and public-facing survey and splash pages for participants.
 
 **Features**
 - **QR Code Generator**:
 Create QR codes for survey or event links.
 Dynamic QR codes that can be updated with new survey links.
 - **Survey and Event Page Creation**:
-Intuitive interface to create and customize survey or event pages.
+For administration and supervisor use. Intuitive interface to create and customize survey or events.
 Add questions, options, and customize the look and feel.
-- **Public-Facing Surveys**:
-Generate unique URLs for public access to surveys.
+- **Public-Facing or Private Surveys**:
+The application generate unique URLs for public access to surveys if they are marked as public by admin. If private they will require users to register to an account to participate in survey. 
 Participants can easily access and complete surveys using these URLs.
+- **Public-Facing Events**:
+The application will route the QR code to the destination URL set by administration at event creation. This will route the user to the public events splash page, and then to destination url.
 - **Employee Dashboard**:
 Secure login for employees.
 Dashboard displaying survey responses, analytics, and management tools.
@@ -21,8 +22,8 @@ Dashboard displaying survey responses, analytics, and management tools.
 **Usage**
 
 - **QR Code Generation**:
-Navigate to the QR Code Generator section.
-Enter the survey or event link.
+Admin will navigate to the QR Code Generator create page.
+Enter the information required, (input validation)
 Click "Create " to get the QR code image.
 
 - **Survey and Event Creation**:
