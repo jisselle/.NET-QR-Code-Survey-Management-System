@@ -62,15 +62,10 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 ![Confirmation_Survey_Page](./img/S_Details.png)
 ![Confirmation_Survey_Page](./img/S_Edit.png)
 
-
-![Confirmation_Survey_Page](./img/ViewC2.png)
-
 ![Confirmation_Survey_Page](./img/ConfirmationPage.png)
 
 ![Confirmation_Survey_Page](./img/S_Edit2.png)
 
 ![Confirmation_Survey_Page](./img/SplashPage.png)
 
-![Confirmation_Survey_Page](./img/S_Form.png)
-![Confirmation_Survey_Page](./img/S_Form2.png)
-![Confirmation_Survey_Page](./img/S_Form3.png)
+![Confirmation_Survey_Page](./img/ViewC2.png)
