@@ -1,7 +1,7 @@
-# .NET-Survey-Management-System
+# .NET-Content Survey-Management-System
 
 **Overview**
-The Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing administrators and supervisors to easily share survey links, a user-friendly dashboard for employees, and public-facing survey and splash pages for participants.
+This Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing administrators and supervisors to easily share survey links, a user-friendly dashboard for employees, and public-facing survey and splash pages for participants.
 
 **Features**
 - **QR Code Generator**:
