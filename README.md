@@ -1,6 +1,6 @@
 # .NET-Content Survey-Management-System
 
-![Confirmation_Survey_Page](./img/sd1.png)
+![Confirmation_Survey_Page](./img/sd.1.png)
 
 **Overview**
 This Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing administrators and supervisors to easily share survey links, a user-friendly dashboard for employees, and public-facing survey and splash pages for participants.
@@ -56,11 +56,15 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 - **Bootstrap**: Frontend framework for responsive UI.
 
 # Dynamic Survey Designer
-![Confirmation_Survey_Page](./img/sd1.png)
+![Confirmation_Survey_Page](./img/sd.1.png)
 ![Confirmation_Survey_Page](./img/sd3.png)
 ![Confirmation_Survey_Page](./img/sd4.png)
 ![Confirmation_Survey_Page](./img/sd5.png)
 ![Confirmation_Survey_Page](./img/sd6.png)
+![Confirmation_Survey_Page](./img/sd7png)
+![Confirmation_Survey_Page](./img/sd8.png)
+![Confirmation_Survey_Page](./img/sd9.png)
+![Confirmation_Survey_Page](./img/sd10.png)
 ![Confirmation_Survey_Page](./img/sd2.png)
 ![Confirmation_Survey_Page](./img/ConfirmationPage.png)
 
