@@ -2,7 +2,7 @@
 
 ![Confirmation_Survey_Page](./img/sd.1.png)
 
-**Overview**
+**Overview** -
 This Survey Web Application is a versatile platform developed in C# to simplify the process of creating, managing, and conducting surveys or events. The application features a QR code generator, allowing administrators and supervisors to easily share survey links, a user-friendly dashboard for employees, and public-facing survey and splash pages for participants.
 
 **Features**
