@@ -23,7 +23,7 @@ Dashboard displaying survey responses, analytics, and management tools.
 
 **More UI Technical Features**
 - **Responsive forms using JavaScript**:
-- - **Storing and showing images within database and databales & CRUD Pages**:
+- - **Storing and showing images within database and datatables & CRUD Pages**:
 - **Routing manipulation**
 - **URL Creation**
 
