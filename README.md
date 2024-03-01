@@ -51,20 +51,22 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 - **C#**: The primary programming language used for backend development.
 - **.NET 6**: Framework for building web applications.
 - **Entity Framework Core**: Object-Relational Mapping (ORM) for database interactions.
-- **Microsoft SQL Server Management Studio **: Database Management.
+- **Microsoft SQL Server Management Studio**: Database Management.
 - **HTML, CSS, JavaScript**: Frontend technologies for creating interactive user interfaces.
 - **Bootstrap**: Frontend framework for responsive UI.
 
-# Screengrabs
+# Dynamic Survey Designer
+![Confirmation_Survey_Page](./img/sd1.png)
+![Confirmation_Survey_Page](./img/sd2.png)
+![Confirmation_Survey_Page](./img/ConfirmationPage.png)
+
+# More Screengrabs
 ![Confirmation_Survey_Page](./img/S_Create.png)
 ![Confirmation_Survey_Page](./img/S_Details.png)
 ![Confirmation_Survey_Page](./img/S_Edit.png)
 
 # Employee Dashboard - Work Page
 ![Confirmation_Survey_Page](./img/S_Edit2.png)
-![Confirmation_Survey_Page](./img/SplashPage.png)
 
-# Dynamic Survey Designer
-![Confirmation_Survey_Page](./img/sd1.png)
-![Confirmation_Survey_Page](./img/sd2.png)
-![Confirmation_Survey_Page](./img/ConfirmationPage.png)
+# Customer Questionaire 
+![Confirmation_Survey_Page](./img/SplashPage.png)
