@@ -58,12 +58,13 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 # Dynamic Survey Designer
 ![Confirmation_Survey_Page](./img/sd.1.png)
 ![Confirmation_Survey_Page](./img/sd3.png)
+![Confirmation_Survey_Page](./img/sd10.png)
 ![Confirmation_Survey_Page](./img/sd4.png)
 ![Confirmation_Survey_Page](./img/sd5.png)
 ![Confirmation_Survey_Page](./img/sd6.png)
 ![Confirmation_Survey_Page](./img/sd7png)
 ![Confirmation_Survey_Page](./img/sd8.png)
-![Confirmation_Survey_Page](./img/sd10.png)
+
 ![Confirmation_Survey_Page](./img/ConfirmationPage.png)
 
 
