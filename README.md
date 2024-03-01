@@ -57,9 +57,11 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 
 # Dynamic Survey Designer
 ![Confirmation_Survey_Page](./img/sd.1.png)
-![Confirmation_Survey_Page](./img/sd3.png)
-
+![Confirmation_Survey_Page](./img/sd7.png)
 ![Confirmation_Survey_Page](./img/sd8.png)
+
+![Confirmation_Survey_Page](./img/sd6.png)
+![Confirmation_Survey_Page](./img/sd3.png)
 ![Confirmation_Survey_Page](./img/sd4.png)
 ![Confirmation_Survey_Page](./img/sd5.png)
 ![Confirmation_Survey_Page](./img/sd6.png)
@@ -79,5 +81,5 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 # Employee Dashboard - Work Page
 ![Confirmation_Survey_Page](./img/S_Edit2.png)
 
-# Customer Questionaire 
+# Customer Questionnaire 
 ![Confirmation_Survey_Page](./img/SplashPage.png)
