@@ -62,7 +62,8 @@ Access the dashboard to view survey responses, analytics, and manage surveys.
 
 ![Confirmation_Survey_Page](./img/sd6.png)
 ![Confirmation_Survey_Page](./img/sd3.png)
-![Confirmation_Survey_Page](./img/sd4.png)
+![Confirmation_Survey_Page](./img/sdedit.png)
+
 ![Confirmation_Survey_Page](./img/sd5.png)
 ![Confirmation_Survey_Page](./img/sd6.png)
 
